@@ -3,3 +3,11 @@ site_name: Polityka Bezpieczeństwa
 theme:
   name: material
 
+nav:
+  - Strona główna: index.md
+  - Zarządzanie hasłami: hasla.md
+  - Bezpieczeństwo stacji roboczych: stacje-robocze.md
+  - Bezpieczeństwo poczty: email.md
+  - Kopie zapasowe: backup.md
+  - Zarządzanie incydentami: incydenty.md
+  - Autorzy: autorzy.md
