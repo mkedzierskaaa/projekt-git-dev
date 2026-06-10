@@ -1,17 +1,32 @@
-# Welcome to MkDocs
+# Polityka Bezpieczeństwa Informacji
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Wprowadzenie
 
-## Commands
+Niniejszy dokument określa zasady bezpieczeństwa informacji obowiązujące w organizacji. Celem polityki jest ochrona danych oraz zapewnienie bezpiecznego korzystania z zasobów informatycznych.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Cel dokumentu
 
-## Project layout
+Celem polityki bezpieczeństwa jest:
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- ochrona poufności, integralności i dostępności informacji,
+- minimalizacja ryzyka wystąpienia incydentów bezpieczeństwa,
+- zwiększenie świadomości pracowników w zakresie cyberbezpieczeństwa,
+- określenie zasad postępowania z zasobami informatycznymi.
+
+## Zakres polityki
+
+Polityka obejmuje następujące obszary:
+
+- zarządzanie hasłami,
+- bezpieczeństwo stacji roboczych,
+- bezpieczeństwo poczty elektronicznej,
+- wykonywanie kopii zapasowych,
+- zarządzanie incydentami bezpieczeństwa.
+
+## Przeznaczenie dokumentu
+
+Dokument jest przeznaczony dla wszystkich pracowników organizacji korzystających z systemów informatycznych oraz przetwarzających dane służbowe.
+
+## Autorzy projektu
+
+Projekt został przygotowany w ramach przedmiotu **Systemy Wspomagania Pracy Zespołowej**.
