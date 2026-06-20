@@ -34,6 +34,7 @@ Dzięki temu nawet pożar w biurze czy atak ransomware nie zniszczy wszystkich k
 - dostęp do backupów mają tylko upoważnieni administratorzy,
 - kopie w chmurze powinny być szyfrowane przed wysłaniem,
 - nośniki z kopiami przechowywać w bezpiecznym miejscu.
+- przynajmniej jedna kopia zapasowa powinna być przechowywana w trybie "tylko do odczytu" (WORM - Write Once, Read My), aby wirus ransomware nie mógł jej zmodyfikować ani usunąć, nawet jeśli przejmie konto administratora.
 
 ## Testowanie backupów
 
