@@ -14,6 +14,7 @@ Hasła powinny:
 - zabrania się zapisywania haseł na kartkach papieru
 - nie należy przechowywać haseł w niezaszyfrowanych plikach tekstowcyh
 - zaleca się korzystanie z menadżerów haseł
+- nie mieć takich samych haseł do wszystkich kont
 
 ## Menedżery haseł
 
