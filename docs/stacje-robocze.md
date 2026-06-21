@@ -2,7 +2,7 @@
 
 ## Wprowadzenie
 
-Komputery w firmie muszą być odpowiednio zabezpieczone, żeby nikt niepowołany nie uzyskał dostępu do danych. Poniżej opisano najważniejsze zasady.
+Komputery i stacje robocze wykorzystywane w firmie powinny być odpowiednio zabezpieczone, aby chronić dane przed nieuprawnionym dostępem, utratą lub modyfikacją.
 
 ## Bezpieczeństwo fizyczne
 
@@ -14,7 +14,7 @@ Komputery w firmie muszą być odpowiednio zabezpieczone, żeby nikt niepowołan
 
 ## Aktualizacje i oprogramowanie
 
-- system operacyjny i programy muszą być na bieżąco aktualizowane,
+- system operacyjny oraz zainstalowane aplikacje powinny być regularnie aktualizowane w celu eliminacji znanych luk bezpieczeństwa.,
 - automatyczne aktualizacje powinny być włączone,
 - instalować wolno tylko oprogramowanie zatwierdzone przez dział IT,
 - nie wolno wyłączać antywirusa ani firewalla.
