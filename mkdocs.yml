@@ -2,6 +2,40 @@ site_name: Polityka Bezpieczeństwa
 
 theme:
   name: material
+  language: pl
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Tryb ciemny
+    - scheme: slate
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Tryb jasny
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    logo: material/shield-lock
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.highlight
+    - content.tabs.link
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/mkedzierskaaa/projekt-git-dev
+
+markdown_extensions:
+  - admonition
+  - tables
+  - attr_list
 
 nav:
   - Strona główna: index.md
