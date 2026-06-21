@@ -17,11 +17,11 @@ Celem polityki bezpieczeństwa jest:
 
 Polityka obejmuje następujące obszary:
 
-- zarządzanie hasłami,
-- bezpieczeństwo stacji roboczych,
-- bezpieczeństwo poczty elektronicznej,
-- wykonywanie kopii zapasowych,
-- zarządzanie incydentami bezpieczeństwa.
+- [Zarządzanie hasłami](hasla.md),
+- [Bezpieczeństwo stacji roboczych](stacje-robocze.md),
+- [Bezpieczeństwo poczty elektronicznej](bezpieczenstwo-poczty.md),
+- [Wykonywanie kopii zapasowych](backup.md),
+- [Zarządzanie incydentami bezpieczeństwa](incydenty.md).
 
 ## Przeznaczenie dokumentu
 
@@ -30,3 +30,4 @@ Dokument jest przeznaczony dla wszystkich pracowników organizacji korzystający
 ## Autorzy projektu
 
 Projekt został przygotowany w ramach przedmiotu **Systemy Wspomagania Pracy Zespołowej**.
+Szczegółowy skład zespołu znajdziesz w zakładce [Autorzy](autorzy.md).
