@@ -1,10 +1,10 @@
 # Procedury zgłaszania incydentów bezpieczeństwa
 
-W każdej firmie może dojść do sytuacji kryzysowej. Kluczem do minimalizacji strat jest odpowiednio szybka i przemyślana reakcja pracownika. Niniejsza sekcja opisuje, jak zachować się w przypadku podejrzenia naruszenia bezpieczeństwa danych.
+W każdej firmie może dojść do sytuacji kryzysowej. Szybka i właściwa reakcja pracownika pozwala znacząco ograniczyć skutki incydentu oraz zminimalizować potencjalne straty dla organizacji. Niniejsza sekcja opisuje, jak zachować się w przypadku podejrzenia naruszenia bezpieczeństwa danych.
 
 ## Teoria: Czym jest incydent i jak reagować?
 
-**Incydent bezpieczeństwa** to każde zdarzenie, które stwarza ryzyko nieuprawnionego dostępu do poufnych informacji firmowych. Do najczęstszych incydentów należą:
+**Incydent bezpieczeństwa** to każde zdarzenie mogące prowadzić do naruszenia poufności, integralności lub dostępności danych firmowych. Do najczęstszych incydentów należą:
 * Kradzież lub zagubienie sprzętu służbowego (laptop, telefon, pendrive).
 * Otwarcie złośliwego załącznika w poczcie e-mail lub kliknięcie w podejrzany link.
 * Podejrzane działanie komputera (np. nagłe spowolnienie, samoczynne kasowanie lub szyfrowanie plików).
