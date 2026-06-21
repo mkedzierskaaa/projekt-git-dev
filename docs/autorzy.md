@@ -1,7 +1,7 @@
 # Autorzy Projektu
 
-* **Martyna Kędzierska – Kierownik Projektu**
-Odpowiedzialna za merytoryczne opracowanie tematów związanych z bezpieczeństwem komputerów i stacji roboczych, zarządzanie deweloperskim i produkcyjnym repozytorium Git, wdrożenie dobrych praktyk bezpieczeństwa w biurze oraz zaprojektowanie polityki tworzenia kopii zapasowych (backup).
+* **Martyna Kędzierska - Kierownik Projektu**
+Odpowiedzialna za merytoryczne opracowanie tematów związanych z bezpieczeństwem komputerów i stacji roboczych, wdrożenie dobrych praktyk bezpieczeństwa w biurze oraz zaprojektowanie polityki tworzenia kopii zapasowych (backup) oraz dodanie odpowiednich fotografii na stronie statycznej.
 
 
 * **Karol Kręcioch**
