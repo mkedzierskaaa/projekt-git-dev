@@ -16,6 +16,7 @@ Jakie zasady cyberhigieny należy bezwzględnie zachować?
    * należy unikać powiązań z imieniem, nazwiskiem, datą urodzenia, nr PESEL i z innymi hasłami, które już posiadamy.
 7. Warto włączyć uwierzytelnianie dwuskładnikowe (MFA).
 8. Należy pamiętać o posiadaniu zaktualizowanego programu antywirusowego.
+9. W przypadku otrzymania podejrzanej wiadomości należy niezwłocznie zgłosić ją administratorowi systemu lub działowi IT.
 
 ## Przykłady - jak może wyglądać atak
 
@@ -24,4 +25,4 @@ Poniżej znajduje się przykład e-maila phishingowego, który z pozoru wydaje s
 ![Przykład fałszywego e-maila](images/nazwa-obrazka.png)
 *Źródło: CLIVO.PL*
 
-> Pjhishing to metoda oszustwa, w której przestępca podszywa się pod inną osobę lub instytucję w celu wyłudzenia poufnych informacji.
+> Phishing to metoda oszustwa, w której przestępca podszywa się pod inną osobę lub instytucję w celu wyłudzenia poufnych informacji.
