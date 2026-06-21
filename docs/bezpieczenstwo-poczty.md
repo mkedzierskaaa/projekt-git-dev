@@ -28,9 +28,11 @@ Poniżej znajduje się przykład e-maila phishingowego:
 > *Phishing to metoda oszustwa, w której przestępca podszywa się pod inną osobę lub instytucję w celu wyłudzenia poufnych informacji.*
 
 ![Przykład fałszywego e-maila](images/swpg_1.jpg)
-*Źródło: CLIVO.PL*
-Z pozoru nieszkodliwy zwyczajny e-mail, tak naprawdę pochodzi z innego adresu
 
+> *Źródło: CLIVO.PL*
+
+
+Z pozoru nieszkodliwy, zwyczajny, wyglądający całkowicie normalnie e-mail, tak naprawdę pochodzi z innego, złego adresu!
 
 ## Kliknąłeś w podejrzany link? Co teraz?
 **Jeśli podejrzewasz, że Twój e-mail padł ofiarą ataku, każda sekunda ma znaczenie. Sprawdź jak postępować w zakładce: [Zarządzanie incydentami bezpieczeństwa](incydenty.md).**
