@@ -29,4 +29,4 @@ Dokument jest przeznaczony dla wszystkich pracowników organizacji korzystający
 
 ## Autorzy projektu
 
-Projekt został przygotowany w ramach przedmiotu **Systemy Wspomagania Pracy Zespołowej**.
+Projekt został przygotowany przez Martynę Kędzierską, Maję Łoziak oraz Karola Kręcioch.
