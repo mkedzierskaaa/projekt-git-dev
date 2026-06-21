@@ -6,7 +6,7 @@ Komputery w firmie muszą być odpowiednio zabezpieczone, żeby nikt niepowołan
 
 ## Bezpieczeństwo fizyczne
 
-- komputery powinny znajdować się w zamykanych pomieszczeniach,
+- komputery powinny znajdować się w zamykanych na klucz pomieszczeniach,
 - laptopy nie mogą być zostawiane bez nadzoru w miejscach publicznych,
 - przy odchodzeniu od komputera należy blokować ekran (`Win + L` lub `Ctrl + Command + Q`),
 - nie wolno podłączać nieznanych pendrive'ów do komputera służbowego,
