@@ -5,7 +5,7 @@
 Hasła powinny:
 - zawierać minimum 12 znaków
 - składać się z wielkich i małych liter
-- zawirać cyfry i znaki specjalne
+- zawierać cyfry i znaki specjalne
 - nie zawierać danych osobowych użytkownika
 - być unikalne dla każdego systemu
 
