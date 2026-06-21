@@ -27,7 +27,7 @@ Najczęstsze techniki stosowane przez cyberprzestępców to:
 Poniżej znajduje się przykład e-maila phishingowego:
 > *Phishing to metoda oszustwa, w której przestępca podszywa się pod inną osobę lub instytucję w celu wyłudzenia poufnych informacji.*
 
-![Przykład fałszywego e-maila](images/swpg_1.png)
+![Przykład fałszywego e-maila](images/swpg_1.jpg)
 *Źródło: CLIVO.PL*
 Z pozoru nieszkodliwy zwyczajny e-mail, tak naprawdę pochodzi z innego adresu
 
