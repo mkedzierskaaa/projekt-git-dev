@@ -5,14 +5,14 @@
 Hasła powinny:
 - zawierać minimum 12 znaków
 - składać się z wielkich i małych liter
-- zawirać cyfry i znaki specjalne
+- zawierać cyfry i znaki specjalne
 - nie zawierać danych osobowych użytkownika
 - być unikalne dla każdego systemu
 
 ## Zasady dotyczące przechowywania haseł
 
-- zabrania się zapisywania haseł na kartkach papieru
-- nie należy przechowywać haseł w niezaszyfrowanych plikach tekstowcyh
+- zabrania się zapisywania haseł na kartkach papieru, a szczególnie nie bezpośrednio pod komputerem, albo na biurku
+- nie należy przechowywać haseł w niezaszyfrowanych plikach tekstowych
 - zaleca się korzystanie z menadżerów haseł
 
 ## Menedżery haseł
