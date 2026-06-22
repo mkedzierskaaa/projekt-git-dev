@@ -14,6 +14,8 @@ Każdy pracownik powinien mieć dostęp tylko do tego, co jest mu potrzebne do p
 
 ## Rozpoznawanie phishingu
 
+![Przykład phishingu](images/phising.png)
+
 Zanim klikniesz w link lub otworzysz załącznik, sprawdź:
 
 - czy adres nadawcy jest prawidłowy (np. `firma.pl` a nie `flrma.pl`),

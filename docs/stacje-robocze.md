@@ -6,6 +6,8 @@ Komputery w firmie muszą być odpowiednio zabezpieczone, żeby nikt niepowołan
 
 ## Bezpieczeństwo fizyczne
 
+![Zablokowany komputer](images/locked.png)
+
 - komputery powinny znajdować się w zamykanych pomieszczeniach,
 - laptopy nie mogą być zostawiane bez nadzoru w miejscach publicznych,
 - przy odchodzeniu od komputera należy blokować ekran (`Win + L` lub `Ctrl + Command + Q`),
