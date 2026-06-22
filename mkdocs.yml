@@ -41,7 +41,7 @@ nav:
   - Strona główna: index.md
   - Zarządzanie hasłami: hasla.md
   - Bezpieczeństwo stacji roboczych: stacje-robocze.md
-  - Bezpieczeństwo poczty: email.md
+  - Bezpieczeństwo poczty: bezpieczenstwo-poczty.md
   - Kopie zapasowe: backup.md
   - Dobre praktyki bezpieczeństwa: dobre-praktyki.md
   - Zarządzanie incydentami: incydenty.md
