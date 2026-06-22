@@ -22,6 +22,7 @@ Zanim klikniesz w link lub otworzysz załącznik, sprawdź:
 - czy wiadomość nie wywiera presji (np. "musisz kliknąć w 5 minut"),
 - czy załącznik nie ma podejrzanego rozszerzenia (np. `faktura.pdf.exe`),
 - najedź kursorem na link, żeby zobaczyć prawdziwy adres.
+> Rozszerzone informacje o obronie przed atakami mailowymi znajdują się w zakładce: [Bezpieczeństwo poczty elektronicznej](bezpieczenstwo-poczty.md).
 
 ## Bezpieczne korzystanie z Internetu
 
@@ -33,7 +34,7 @@ Zanim klikniesz w link lub otworzysz załącznik, sprawdź:
 
 - zabezpieczyć telefon PIN-em lub odciskiem palca,
 - włączyć szyfrowanie pamięci,
-- instalować aplikacje tylko z oficjalnego sklepu,
+- instaluj aplikacje tylko z oficjalnego sklepu,
 - włączyć możliwość zdalnego wymazania danych w razie kradzieży.
 
 ## Co robić w razie incydentu
